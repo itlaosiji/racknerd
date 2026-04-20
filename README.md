@@ -6,7 +6,7 @@ RackNerd官网：[https://racknerd.com](https://my.racknerd.com/aff.php?aff=7571
 
 ## RackNerd最新优惠促销
 
-RackNerd 优惠促销活动较多，除了非常抢手和限量的闪购套餐，一些往期的促销vps目前仍然可以购买（这点与[CloudCone](https://github.com/edutfree/cloudcone)不太一样），这里整理一下rn促销套餐供大家选购。
+RackNerd 优惠促销活动较多，除了非常抢手和限量的闪购套餐，一些往期的促销vps目前仍然可以购买，这里整理一下rn促销套餐供大家选购。
 
 国内用户建议选择美国西部机房，如西雅图、洛杉矶DC02、圣何塞等。2025年3月上线洛杉矶DC-03数据中心VPS。
 
